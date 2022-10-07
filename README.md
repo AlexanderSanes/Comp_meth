@@ -1,2 +1,2 @@
 # Comp_meth
-Kirill Loch
+ Лабы по числинным методам
